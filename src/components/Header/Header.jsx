@@ -9,11 +9,11 @@ export default function Header() {
       </a>
 
       <ul className={s.navigation}>
-        <li>about us</li>
-        <li>our servises</li>
-        <li>become a driver</li>
-        <li>dispatchers</li>
-        <li>contact us</li>
+        <li className={s.navItem}>about us</li>
+        <li className={s.navItem}>our servises</li>
+        <li className={s.navItem}>become a driver</li>
+        <li className={s.navItem}>dispatchers</li>
+        <li className={s.navItem}>contact us</li>
       </ul>
 
       <button className={s.button} type="button">

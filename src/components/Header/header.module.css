@@ -32,6 +32,10 @@
   color: #232323;
 }
 
+.navItem {
+  cursor: pointer;
+}
+
 .button {
   cursor: pointer;
 
