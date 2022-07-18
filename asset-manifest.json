@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/test-dnm-transportation/static/css/main.0925771a.css",
+    "main.js": "/test-dnm-transportation/static/js/main.bfd1d087.js",
+    "static/media/DNM-Name.svg": "/test-dnm-transportation/static/media/DNM-Name.c7e7aea07b751a0f07d77d9a02e30fff.svg",
+    "static/media/814A0868 1.png": "/test-dnm-transportation/static/media/814A0868 1.559cac1d74bc8cacb449.png",
+    "index.html": "/test-dnm-transportation/index.html",
+    "static/media/Arrow.svg": "/test-dnm-transportation/static/media/Arrow.263fd62e5839a986fe87.svg",
+    "static/media/Arrow-btn.svg": "/test-dnm-transportation/static/media/Arrow-btn.a04e6311a7231f054811deb3e8c2d7af.svg",
+    "main.0925771a.css.map": "/test-dnm-transportation/static/css/main.0925771a.css.map",
+    "main.bfd1d087.js.map": "/test-dnm-transportation/static/js/main.bfd1d087.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0925771a.css",
+    "static/js/main.bfd1d087.js"
+  ]
+}
