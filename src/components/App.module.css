@@ -1,0 +1,113 @@
+.container {
+    width: 1440px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-bottom: 123px;
+    background: #F5F5F5;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 99px;
+    margin-bottom: 20px;
+
+    font-family: 'Orelega One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 65px;
+
+    color: #223066;
+}
+
+.pretitle {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+
+    text-align: center;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+
+    color: #7D7D7D;
+}
+
+.text {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+
+    width: 558px;
+    height: 173px;
+    margin-top: 70px;
+    margin-bottom: 55px;
+
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 29px;
+
+    color: #232323;
+}
+
+
+
+.backgroundImg {
+    margin-right: 150px;
+    margin-bottom: 157px;
+    margin-left: 150px;
+
+
+    appearance: none;
+    background-image: url('../img/814A0868\ 1.png');
+    background-repeat: no-repeat, repeat;
+    background-position: right .7em top 50%, 0 0;
+}
+
+.apllyNow {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    font-family: 'Orelega One';
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
+}
+
+.titleText {
+    width: 853px;
+    height: 104px;
+    margin-bottom: 20px;
+
+    font-size: 48px;
+    line-height: 52px;
+
+    color: #223066;
+}
+
+.applyBtn {
+    width: 280px;
+    height: 48px;
+
+
+    font-size: 18px;
+    line-height: 20px;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+    background: #ED1C24;
+    outline: none;
+    border: none;
+
+}
+
+.btnText {
+    margin-right: 20px;
+}

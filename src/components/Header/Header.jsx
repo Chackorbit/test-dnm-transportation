@@ -1,0 +1,24 @@
+import { ReactComponent as Logo } from "../../img/DNM-Name.svg";
+import s from "./header.module.css";
+
+export default function Header() {
+  return (
+    <div className={s.container}>
+      <a className={s.logo} href="/">
+        {<Logo />}
+      </a>
+
+      <ul className={s.navigation}>
+        <li>about us</li>
+        <li>our servises</li>
+        <li>become a driver</li>
+        <li>dispatchers</li>
+        <li>contact us</li>
+      </ul>
+
+      <button className={s.button} type="button">
+        TRack shipment
+      </button>
+    </div>
+  );
+}
