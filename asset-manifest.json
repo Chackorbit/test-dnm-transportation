@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/test-dnm-transportation/static/css/main.ef32189f.css",
+    "main.css": "/test-dnm-transportation/static/css/main.2587ca24.css",
     "main.js": "/test-dnm-transportation/static/js/main.080a59d0.js",
     "static/media/DNM-Name.svg": "/test-dnm-transportation/static/media/DNM-Name.c7e7aea07b751a0f07d77d9a02e30fff.svg",
-    "static/media/814A0868 1.png": "/test-dnm-transportation/static/media/814A0868 1.559cac1d74bc8cacb449.png",
+    "static/media/814A0868-1.webp": "/test-dnm-transportation/static/media/814A0868-1.eebfb968112d1bfed501.webp",
     "index.html": "/test-dnm-transportation/index.html",
     "static/media/Arrow.svg": "/test-dnm-transportation/static/media/Arrow.263fd62e5839a986fe87.svg",
     "static/media/Arrow-btn.svg": "/test-dnm-transportation/static/media/Arrow-btn.a04e6311a7231f054811deb3e8c2d7af.svg",
-    "main.ef32189f.css.map": "/test-dnm-transportation/static/css/main.ef32189f.css.map",
+    "main.2587ca24.css.map": "/test-dnm-transportation/static/css/main.2587ca24.css.map",
     "main.080a59d0.js.map": "/test-dnm-transportation/static/js/main.080a59d0.js.map"
   },
   "entrypoints": [
-    "static/css/main.ef32189f.css",
+    "static/css/main.2587ca24.css",
     "static/js/main.080a59d0.js"
   ]
 }
